@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Keep-Notes-Of.../static/js/main.d6f8d227.chunk.js",
-    "main.js.map": "/Keep-Notes-Of.../static/js/main.d6f8d227.chunk.js.map",
-    "runtime-main.js": "/Keep-Notes-Of.../static/js/runtime-main.26858261.js",
-    "runtime-main.js.map": "/Keep-Notes-Of.../static/js/runtime-main.26858261.js.map",
-    "static/js/2.aec5d782.chunk.js": "/Keep-Notes-Of.../static/js/2.aec5d782.chunk.js",
-    "static/js/2.aec5d782.chunk.js.map": "/Keep-Notes-Of.../static/js/2.aec5d782.chunk.js.map",
-    "index.html": "/Keep-Notes-Of.../index.html",
-    "static/js/2.aec5d782.chunk.js.LICENSE.txt": "/Keep-Notes-Of.../static/js/2.aec5d782.chunk.js.LICENSE.txt"
+    "main.js": "/React-Keep-Notes-Of.../static/js/main.d6f8d227.chunk.js",
+    "main.js.map": "/React-Keep-Notes-Of.../static/js/main.d6f8d227.chunk.js.map",
+    "runtime-main.js": "/React-Keep-Notes-Of.../static/js/runtime-main.01acc9bd.js",
+    "runtime-main.js.map": "/React-Keep-Notes-Of.../static/js/runtime-main.01acc9bd.js.map",
+    "static/js/2.aec5d782.chunk.js": "/React-Keep-Notes-Of.../static/js/2.aec5d782.chunk.js",
+    "static/js/2.aec5d782.chunk.js.map": "/React-Keep-Notes-Of.../static/js/2.aec5d782.chunk.js.map",
+    "index.html": "/React-Keep-Notes-Of.../index.html",
+    "static/js/2.aec5d782.chunk.js.LICENSE.txt": "/React-Keep-Notes-Of.../static/js/2.aec5d782.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26858261.js",
+    "static/js/runtime-main.01acc9bd.js",
     "static/js/2.aec5d782.chunk.js",
     "static/js/main.d6f8d227.chunk.js"
   ]
